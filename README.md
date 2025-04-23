@@ -1,4 +1,4 @@
-# RequiemEloBot
+# Discord Elo Bot
 
 Advanced Discord bot that powers an Elo-based dueling system with  
 auto-assigned rank roles, monthly leaderboard resets, and administrator tools.
